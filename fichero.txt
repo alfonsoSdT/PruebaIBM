@@ -1,0 +1,3 @@
+Proveedores:
+1, Coca-cola, 21/12/1998, 5
+2, Pepsi, 21/12/1998, 5

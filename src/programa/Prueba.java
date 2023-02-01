@@ -3,11 +3,11 @@ package programa;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java . sql . Connection ;
-import java . sql . DriverManager ;
+import java.sql.Connection ;
+import java.sql.DriverManager ;
 import java.sql.ResultSet;
-import java . sql . SQLException;
-import java . sql . Statement ;
+import java.sql.SQLException;
+import java.sql.Statement ;
 
 public class Prueba {
 	public static void main(String args[]) throws SQLException, IOException{
